@@ -7,7 +7,7 @@
 *Two people. One org. 2,295 km apart.*
 
 <a href="https://github.com/SupereeOrg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1400&color=9C6B7E&center=true&vCenter=true&width=480&lines=Lhasa+%E2%9C%88+Guangzhou;2%2C295+km+apart;one+org%2C+written+late+at+night" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1400&color=9C6B7E&center=true&vCenter=true&width=480&lines=Lhasa+%E2%9C%88+Guangzhou;2%2C295+km+apart;writing+to+each+other+anyway" alt="typing" />
 </a>
 
 <br />
@@ -20,14 +20,28 @@
 
 ---
 
-## 🥒 About
+## 🌙 About
 
-We're **su** and **ee**.
+We met the way the internet lets people meet — two strangers in the same small corner of it, long before it meant anything.
 
-We met on the internet, kept talking, and never really stopped.
-Somewhere in the autumn of 2026 we became a couple — and this organization is where we build things together.
+Then, one autumn, it meant everything.
 
-Everything under this org is written by the two of us: one in **Lhasa**, one in **Guangzhou**, usually a little too late at night.
+We talked. We kept talking. And somewhere between the late nights, the inside jokes, and the messages sent at hours we should have been asleep, "talking" quietly turned into something neither of us wanted to end.
+
+So we stopped pretending. And this organization is what happens when two people 2,295 km apart decide to build something together anyway.
+
+Every repository here is written by both of us — one in **Lhasa**, one in **Guangzhou** — usually after midnight, always a little more honestly than we'd be out loud.
+
+---
+
+## ⏳ Our story, so far
+
+| | |
+| :--- | :--- |
+| **2026 · 07 · 28** | Two strangers say hello. |
+| **2026 · 08 · 28** | One of them speaks first — and everything starts again. |
+| **2026 · 09 · 10** | We stop calling it friendship. |
+| **soon** | The first hello in person. |
 
 ---
 
@@ -35,20 +49,15 @@ Everything under this org is written by the two of us: one in **Lhasa**, one in 
 
 | | | |
 | :---: | :--- | :--- |
-| 🌸 | **su** | Lhasa · code, AI tools, half-finished ideas |
-| 🍃 | **ee** | Guangzhou · tea, visual novels, quiet focus |
-
----
-
-## 💌 Became a couple
-
-<p align="center">
-  <b>2026 · 09 · 10</b><br />
-  <sub>and still counting.</sub>
-</p>
+| 🌸 | **su** | Lhasa · builds things, collects ideas, sleeps too late |
+| 🍃 | **ee** | Guangzhou · drinks tea, tells stories, notices everything |
 
 ---
 
 <div align="center">
-  <img width="100%" src="../assets/footer.png" alt="su · ee" />
+
+*From opposite ends of the country, to the same little corner of the internet.*
+
+<img width="100%" src="../assets/footer.png" alt="su · ee" />
+
 </div>
