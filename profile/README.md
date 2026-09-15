@@ -36,21 +36,17 @@ Every repository here is written by both of us — one in **Lhasa**, one in **Gu
 
 ## ⏳ Our story, so far
 
-| | |
-| :--- | :--- |
-| **2026 · 07 · 28** | Two strangers say hello. |
-| **2026 · 08 · 28** | One of them speaks first — and everything starts again. |
-| **2026 · 09 · 10** | We stop calling it friendship. |
-| **soon** | The first hello in person. |
+- **2026 · 07 · 28** — Two strangers say hello.
+- **2026 · 08 · 28** — One of them speaks first, and everything starts again.
+- **2026 · 09 · 10** — We stop calling it friendship.
+- **soon** — The first hello in person.
 
 ---
 
 ## 🌿 The two of us
 
-| | | |
-| :---: | :--- | :--- |
-| 🌸 | **su** | Lhasa · builds things, collects ideas, sleeps too late |
-| 🍃 | **ee** | Guangzhou · drinks tea, tells stories, notices everything |
+- 🌸 **su** — Lhasa · builds things, collects ideas, sleeps too late
+- 🍃 **ee** — Guangzhou · drinks tea, tells stories, notices everything
 
 ---
 
