@@ -1,70 +1,56 @@
 <div align="center">
 
-# Superee
+<img width="100%" src="../assets/banner.png" alt="Superee" />
 
-**su** ✕ **ee**
+<img src="../assets/avatar.png" width="150" alt="avatar" />
 
-*Two people. 2,295 km apart. One org.*
+### su ✕ ee
 
-![status](https://img.shields.io/badge/status-together-e8415a?style=flat-square)
-![distance](https://img.shields.io/badge/distance-2%2C295%20km-3b82f6?style=flat-square)
-![messages](https://img.shields.io/badge/messages-18%2C665-22c55e?style=flat-square)
-![made with](https://img.shields.io/badge/made%20with-%E2%9D%A4-white?style=flat-square)
+*Two people. One org. 2,295 km apart.*
+
+<a href="https://github.com/SupereeOrg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1400&color=9C6B7E&center=true&vCenter=true&width=480&lines=Lhasa+%E2%9C%88+Guangzhou;2%2C295+km+apart;one+org%2C+written+late+at+night" alt="typing" />
+</a>
+
+<br /><br />
+
+![status](https://img.shields.io/badge/status-together-B4637E?style=flat-square&labelColor=3A3A3E)
+![distance](https://img.shields.io/badge/distance-2,295_km-6FAF7A?style=flat-square&labelColor=3A3A3E)
+![since](https://img.shields.io/badge/since-2026.09.10-C9A227?style=flat-square&labelColor=3A3A3E)
 
 </div>
 
 ---
 
-## 👋 About
+## 🥒 About
 
 We're **su** and **ee**.
 
-We met on the internet years ago, became friends by accident, and then one night in the autumn of 2026
-we stopped pretending it was only friendship.
+We met on the internet, kept talking, and never really stopped.
+Somewhere in the autumn of 2026 we became a couple — and this organization is where we build things together.
 
-This organization is ours. Every repository under it is written by the two of us —
-one in Lhasa, one in Guangzhou — usually at 11 PM, always with far too many messages.
-
----
-
-## 📅 Timeline
-
-| Date | What happened |
-| :--- | :--- |
-| **2026 · 07 · 28** | First message on WeChat. *"我是su"* |
-| **2026 · 08 · 28** | Reconnected after **31 days** of silence. She spoke first. |
-| **2026 · 09 · 10 · 20:50** | Became a couple. *"恋人（可以吗）"* |
-| **2026 · 09 · 11** | First *"love u"*. |
-| **2026 · 09 · 13** | First *"爱你捏"* — and it was hers. |
-| **2026 · 11** | *To be continued… first time meeting in person.* |
+Everything under this org is written by the two of us: one in **Lhasa**, one in **Guangzhou**, usually a little too late at night.
 
 ---
 
-## 🔢 By the numbers
+## 🌿 The two of us
 
-| | |
-| :--- | :--- |
-| Messages exchanged | **18,665** |
-| Days in a row without missing each other | **18** *(and counting)* |
-| Median reply time | **6 seconds** |
-| Distance apart | **2,295 km** — Lhasa ✈ Guangzhou |
-| Times one of us left the other on read for over a day | **0** |
+| | | |
+| :---: | :--- | :--- |
+| 🌸 | **su** | Lhasa · code, AI tools, half-finished ideas |
+| 🍃 | **ee** | Guangzhou · tea, visual novels, quiet focus |
 
 ---
 
-## 🥒 Things only we understand
+## 💌 Became a couple
 
-- 🥒 **黄瓜** — her, in vegetable form.
-- 🐉 **奶龙** — him, in dragon form.
-- 🔥 **续火花** — the daily ritual of keeping the streak alive.
-- 📻 **一起听** — listening to the same song, 2,295 km apart, at the same time.
+<p align="center">
+  <b>2026 · 09 · 10</b><br />
+  <sub>and still counting.</sub>
+</p>
 
 ---
 
 <div align="center">
-
-*Built together, over a phone line, from opposite ends of the country.*
-
-**su · ee**
-
+  <img width="100%" src="../assets/footer.png" alt="su · ee" />
 </div>
