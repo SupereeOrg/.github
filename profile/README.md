@@ -1,7 +1,5 @@
 <div align="center">
 
-<img width="100%" src="../assets/banner.png" alt="Superee" />
-
 <img src="../assets/avatar.png" width="150" alt="avatar" />
 
 ### su ✕ ee
@@ -12,7 +10,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1400&color=9C6B7E&center=true&vCenter=true&width=480&lines=Lhasa+%E2%9C%88+Guangzhou;2%2C295+km+apart;one+org%2C+written+late+at+night" alt="typing" />
 </a>
 
-<br /><br />
+<br />
 
 ![status](https://img.shields.io/badge/status-together-B4637E?style=flat-square&labelColor=3A3A3E)
 ![distance](https://img.shields.io/badge/distance-2,295_km-6FAF7A?style=flat-square&labelColor=3A3A3E)
